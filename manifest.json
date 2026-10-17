@@ -1,0 +1,62 @@
+[
+ {
+  "moduleId": "m-l3-01-chord-scales",
+  "title": "코드 스케일 이론",
+  "durationSec": 1124.1655,
+  "version": 1,
+  "bgm": "Music: \"Backbay Lounge\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 88618231,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l3"
+ },
+ {
+  "moduleId": "m-l3-02-guide-tone-improv",
+  "title": "가이드 톤으로 솔로하기",
+  "durationSec": 930.2265,
+  "version": 1,
+  "bgm": "Music: \"Apero Hour\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 72873982,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l3"
+ },
+ {
+  "moduleId": "m-l3-03-approach-notes",
+  "title": "어프로치 노트와 엔클로저",
+  "durationSec": 1019.09,
+  "version": 1,
+  "bgm": "Music: \"Samba Isobel\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 81773003,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l3"
+ },
+ {
+  "moduleId": "m-l3-04-digital-patterns",
+  "title": "디지털 패턴",
+  "durationSec": 897.5136,
+  "version": 1,
+  "bgm": "Music: \"Sidewalk Shade - slower\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 70110785,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l3"
+ },
+ {
+  "moduleId": "m-l3-05-forward-motion",
+  "title": "목표음 조준과 포워드 모션",
+  "durationSec": 928.4621,
+  "version": 1,
+  "bgm": "Music: \"George Street Shuffle\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 75158998,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l3"
+ },
+ {
+  "moduleId": "m-l3-06-minor-harmony",
+  "title": "마이너 조성의 화성과 스케일",
+  "durationSec": 1118.6647,
+  "version": 1,
+  "bgm": "Music: \"Deuces\" by Kevin MacLeod (incompetech.com) — CC BY 4.0",
+  "bytes": 84239043,
+  "publishedAt": "2026-10-18",
+  "url": "https://emitlight.github.io/jazzytory-media-l3"
+ }
+]
